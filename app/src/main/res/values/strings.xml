@@ -1,0 +1,81 @@
+<resources>
+    <string name="app_name">A_Profile</string>
+
+
+    //Customer Details
+    <string name="logo3">Customer Details</string>
+    <string name="c_id">ID : #76885</string>
+    <string name="c_name">Name : Supun Chapa</string>
+    <string name="c_no">Contact Number : 07786980</string>
+    <string name="c_nic">NIC : 20023344665</string>
+    <string name="c_address">Address : Kandy</string>
+    <string name="btnRemove">REMOVE</string>
+
+    //Order Confirmation
+    <string name="logo4">Order Confirmation</string>
+    <string name="item_id">Item ID : #23567</string>
+    <string name="item_Name">Item Name : I Phone Chager</string>
+    <string name="item_condition">Condition : Brand New</string>
+    <string name="item_price">Price(Rs) : 6000</string>
+    <string name="item_description">Desription : It\'s Original product</string>
+    <string name="accept">ACCEPT</string>
+    <string name="delete">DELETE</string>
+
+
+    //seller details
+    <string name="seller_details">Seller Details</string>
+    <string name="id_56778">ID : #56778</string>
+    <string name="name_saman_kumara">Name : Saman Kumara</string>
+    <string name="contact_number_0774566709">Contact Number : 0774566709</string>
+    <string name="address_kurunegala">Address : Kurunegala</string>
+    <string name="nic_20003979558">NIC : 20003979558</string>
+    <string name="remove">Remove</string>
+
+    //product details
+    <string name="details">Details</string>
+    <string name="product_name_i_phone_chager">Product Name : I Phone Chager</string>
+    <string name="price_rs_6000">Price (Rs) : 6000</string>
+    <string name="condition_brand_new">Condition : Brand New</string>
+    <string name="description_it_s_original_product">Description : It\'s Original product</string>
+    <string name="seller_name_dimuthu">Seller Name : Dimuthu</string>
+    <string name="contact_number_0763234999">Contact Number : 0763234999</string>
+    <string name="back">Back</string>
+
+    //admin Profile
+
+    <string name="admin_profile">Admin Profile</string>
+    <string name="change_password">Change Password</string>
+    <string name="customer_details">Customer Details</string>
+    <string name="seller_detailss">Seller Details</string>
+    <string name="order_confirmation">Order Confirmation</string>
+    <string name="log_out">Log Out</string>
+
+
+    //change password
+
+    <string name="change_password1">Change Password</string>
+    <string name="enter_currunt_password">Enter Currunt Password</string>
+    <string name="enter_new_password">Enter New Password</string>
+    <string name="change">Change</string>
+    <string name="customer_details1">Customer Details</string>
+    <string name="id_76885">ID : #76885</string>
+    <string name="name_supun_chapa">Name : Supun Chapa</string>
+    <string name="contact_number_077869980">Contact Number : 077869980</string>
+    <string name="nic_20023344665">NIC : 20023344665</string>
+    <string name="address_kandy">Address : Kandy</string>
+    <string name="removec">Remove</string>
+
+    //notification
+    <string name="notification">Notification</string>
+    <string name="seller_count_95">Seller Count : 95</string>
+    <string name="customer_count_58">Customer Count : 58</string>
+    <string name="today">Today</string>
+    <string name="new_customer_add_to_the_system">New Customer Add to the system</string>
+    <string name="_12_40">12.40</string>
+    <string name="_2023_03_18">2023 - 03 -18</string>
+    <string name="new_order_added">New order added</string>
+    <string name="_1_day_ago">1 day ago</string>
+    <string name="seller_name">Seller Name</string>
+
+
+</resources>
