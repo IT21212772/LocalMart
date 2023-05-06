@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@drawable/icon4"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.SellerUI"
+        tools:targetApi="31">
+        <activity
+            android:name=".Admin.AdminReg"
+            android:exported="false" />
+        <activity
+            android:name=".Seller.ForgetPassword"
+            android:exported="false" />
+        <activity
+            android:name=".Customer.CustomerEditProfile"
+            android:exported="false" />
+        <activity
+            android:name=".Customer.CustomerProfile"
+            android:exported="false" />
+        <activity
+            android:name=".Customer.CustomerRegister"
+            android:exported="false" />
+        <activity
+            android:name=".Customer.CustomerLogin"
+            android:exported="false" />
+        <activity
+            android:name=".SplashActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Seller.EditProfile"
+            android:exported="false" />
+        <activity
+            android:name=".Admin.AdminLogin"
+            android:exported="false" />
+        <activity
+            android:name=".FirstPage"
+            android:exported="false" />
+        <activity
+            android:name=".Seller.ProfilePage"
+            android:exported="false" />
+        <activity
+            android:name=".Seller.Notification"
+            android:exported="false" />
+        <activity
+            android:name=".Seller.SummaryPage"
+            android:exported="false" />
+        <activity
+            android:name=".Seller.AddDetails"
+            android:exported="false" />
+        <activity
+            android:name=".Seller.AddPhoto"
+            android:exported="false" />
+        <activity
+            android:name=".Seller.WelcomePage"
+            android:exported="false" />
+        <activity
+            android:name=".Seller.LoginActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Seller.RegisterActivity"
+            android:exported="false" />
+    </application>
+
+</manifest>

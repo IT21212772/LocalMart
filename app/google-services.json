@@ -1,40 +1,10 @@
 {
   "project_info": {
     "project_number": "517271178305",
-    "firebase_url": "https://localmart-cf487-default-rtdb.firebaseio.com",
     "project_id": "localmart-cf487",
     "storage_bucket": "localmart-cf487.appspot.com"
   },
   "client": [
-    {
-      "client_info": {
-        "mobilesdk_app_id": "1:517271178305:android:84f71121d9996aac644ac0",
-        "android_client_info": {
-          "package_name": "com.example.a_profile"
-        }
-      },
-      "oauth_client": [
-        {
-          "client_id": "517271178305-3inqpsfih1i279nic9re4sdldfdbfmht.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
-      "api_key": [
-        {
-          "current_key": "AIzaSyBlpxBqMAhmOOJukYoDvqGDlWY9x-KUZc8"
-        }
-      ],
-      "services": {
-        "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "517271178305-3inqpsfih1i279nic9re4sdldfdbfmht.apps.googleusercontent.com",
-              "client_type": 3
-            }
-          ]
-        }
-      }
-    },
     {
       "client_info": {
         "mobilesdk_app_id": "1:517271178305:android:38fba0c61203ed92644ac0",

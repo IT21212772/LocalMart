@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="Header_text1">36sp</dimen>
+    <dimen name="Header_text2">34sp</dimen>
+    <dimen name="Header_text3">32dp</dimen>
+    <dimen name="text_box1">18sp</dimen>
+    <dimen name="text_box2">16sp</dimen>
+    <dimen name="Layout_marginTop1">10dp</dimen>
+    <dimen name="Layout_marginTop2">12dp</dimen>
+    <dimen name="Layout_marginTop3">20dp</dimen>
+    <dimen name="Layout_marginBottom1">10dp</dimen>
+    <dimen name="Layout_marginBottom2">20dp</dimen>
+    <dimen name="Layout_marginBottom3">30dp</dimen>
+    <dimen name="Layout_marginLeft1">10dp</dimen>
+    <dimen name="Layout_marginLeft2">20dp</dimen>
+    <dimen name="Layout_marginLeft3">30dp</dimen>
+    <dimen name="Layout_marginRight1">10dp</dimen>
+    <dimen name="Layout_marginRight2">30dp</dimen>
+    <dimen name="Layout_width">220dp</dimen>
+    <dimen name="Layout_Height">190dp</dimen>
+    <dimen name="img_Layout_Width">100dp</dimen>
+    <dimen name="img_Layout_Height">100dp</dimen>
+
+</resources>

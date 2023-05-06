@@ -12,5 +12,5 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
-rootProject.name = "A_Profile"
+rootProject.name = "SellerUI"
 include ':app'
